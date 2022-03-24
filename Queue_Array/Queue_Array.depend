@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644401392 source:f:\codeblocks\queue_array\main.c
+	<stdio.h>
+	<stdlib.h>
+
